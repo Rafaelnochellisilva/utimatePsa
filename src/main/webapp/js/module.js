@@ -1,0 +1,1 @@
+app = angular.module('matriculaOnline', ['ui.router', 'ngMessages']);

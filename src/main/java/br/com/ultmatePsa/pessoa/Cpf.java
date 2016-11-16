@@ -1,5 +1,8 @@
 package br.com.ultmatePsa.pessoa;
 
-public class Cpf {
+import javax.persistence.Embeddable;
 
+@Embeddable
+public class Cpf {
+	
 }
